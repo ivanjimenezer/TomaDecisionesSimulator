@@ -1,0 +1,12 @@
+1,Juan Perez Rodriguez,Empleado,2295386,16734572,Juan@gmail.com,1,El Valle, La Pochota,94287,Veracruz,Veracruz
+2,Beto Sanchez Rodriguez,Empleado,2323123,36472912,Beto@gmail.com,2,La Piedra,Tejeria,94728,Veracruz,Veracruz
+3,Lulu Torres Dominguez,Subgerente,2312321,93299232,Lulu@gmail.com ,3,El Caballo,Varas,94521,Veracruz,Veracruz
+4,Paco Dominguez Gonzales,Promotor,2312312,78567667,Paco@gmail.com ,4,La Bomba,La Roca,94245,Veracruz,Veracruz
+5,Lucia Hernandez Reyes,Administrador,4124124,67568685,Lucia@gmail.com,5,San Martin,Juan Pablo,94123,Veracruz,Veracruz
+6,Irving Sanchez Perez,Conserje,1231233,43534534,Irving@gmail.com ,6,El Rio,Nueva Era,94271,Veracruz,Veracruz
+7,Daniel Rios Valle,Empleado,4123132,43543555,Daniel@gmail.com,7,El Tigre,Volcanes,94124,Veracruz,Veracruz
+8,Maria Torres Garcia,Secretaria,1231233,63464363,Maria@gmail.com,8,La Palma,BuenaVista,94234,Veracruz,Veracruz
+9,Alicia Delgado Marquez,Empleado,2131233,63242344,Alicia@gmail.com  ,9,La Hoja,España,94412,Veracruz,Veracruz
+10,Oscar Navarro Rey,Gerente,4213133,77979797,Oscar@gmailcom,10,Collares,Coco,94241,Veracruz,Veracruz
+11,Vicky Rodriguez Hernandez,Secretaria,2323123,32232334,Vicky@gmail.com,11,La Perla,Barrilito,94271,Veracruz,Veracruz
+
